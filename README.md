@@ -1,0 +1,2 @@
+# globalloja
+script ionic
